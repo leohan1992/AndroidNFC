@@ -57,7 +57,7 @@ boolean writeNfc(String msg);//write something to NFC tag
 boolean deleteNfc(); //clear NFC tag
 ````
 
-#### a simple use
+#### Sample
 
 ````java 
 public class MainActivity extends NfcActivity {
@@ -111,7 +111,7 @@ public class MainActivity extends NfcActivity {
 
 4. I already checked the Runtime Permission in library. Don't worry about it.
 
-#### contact me
+#### Contact Me
 
 you can sended me an e-mail :leo@leohan.xyz
 
