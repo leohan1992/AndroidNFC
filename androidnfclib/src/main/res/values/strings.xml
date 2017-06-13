@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidNFCLib</string>
+    <string name="common_text_confirm">确定</string>
+    <string name="common_text_cancel">取消</string>
+    <string name="common_text_tips">提示</string>
+    <string name="nfc_reason_need_permission">需要Nfc权限才能正常使用此功能</string>
+    <string name="common_permission_grant_cancel">授权取消</string>
+</resources>

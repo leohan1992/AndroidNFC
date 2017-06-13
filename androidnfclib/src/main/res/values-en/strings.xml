@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidNFCLib</string>
+    <!--公共文本-->
+
+    <string name="common_text_confirm">Yes</string>
+    <string name="common_text_cancel">No</string>
+    <string name="common_text_tips">Tips</string>
+    <string name="common_permission_grant_cancel">Grant permission canceled</string>
+
+    <!--nfc-->
+    <string name="nfc_reason_need_permission">Need NFC permission for this function</string>
+</resources>
